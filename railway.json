@@ -1,0 +1,7 @@
+{
+  "build": {
+    "builder": "go",
+    "buildCommand": "go build -o mini-proxy",
+    "runCommand": "./mini-proxy"
+  }
+}
