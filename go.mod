@@ -1,3 +1,3 @@
 module mini-proxy
 
-go 1.24
+go 1.22
